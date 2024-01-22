@@ -1,10 +1,10 @@
 ---
-title: Home Page
+title: Nicolas Test's Page
 ---
 
 This is the home page of Rahul's CM3 website.
 
-## A smaller level Heading
+## Here 
 
 ### And even smaller
 
